@@ -6,4 +6,6 @@ Firstly, I utilized fingerprint calculations, conducted hyperparameter tuning, a
 
 Secondly, I employed a sequential model while keeping the descriptors consistent, which in this case were fingerprints.
 
-Lastly, for experimental purposes, I adopted an advanced architecture using PyTorch. In this approach, I utilized the BertTokenizer for SMILES and designed a model.
+Third, for experimental purposes, I adopted an advanced architecture using PyTorch. In this approach, I utilized the BertTokenizer for SMILES and designed a model.
+
+In Task 4, I applied a Graph Neural Network using the Chemprop module. In this scenario, I directly used the SMILES as input during the training process
