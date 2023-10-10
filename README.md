@@ -1,4 +1,4 @@
-# Build_different_models_on_SMILES_data
+# Build-different-models-on-SMILES-data
 
 The dataset includes SMILES representations and corresponding activity values. In this context, I've approached the problem as a regression task and employed three distinct methods to address it.
 
